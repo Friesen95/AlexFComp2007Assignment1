@@ -42,7 +42,6 @@
     </nav>
     </form>
     <form id="form2" runat="server">
-    <bs3:Navbar runat="server"></bs3:Navbar>
     <div>
         <asp:ContentPlaceHolder ID="MainContent" runat="server">
         
