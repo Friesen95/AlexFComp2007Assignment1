@@ -1,4 +1,5 @@
 ﻿<%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="Assignment1.Projects" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
@@ -13,9 +14,11 @@
                 <img src="images/Me.jpg" />
             </div>
             <div class=".col-xs-12 .col-sm-6 .col-md-8">
-                During my private time I have no created a lotof projects by myself. Things that i have done are,
+                <p>
+                    During my private time I have no created a lotof projects by myself. Things that i have done are,
             help my dads family business create his company website, I helped create the website for my friends sport store and I am working
             with a group of students to create a new service that is still under production so I cant really say anything further about it.
+                </p>
             </div>
         </div>
         <div class="row">
