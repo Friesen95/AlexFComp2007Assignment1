@@ -27,8 +27,8 @@ namespace Assignment1
                 case "Home Page":
                     home.Attributes.Add("class", "active");
                     break;
-                case "Products":
-                    products.Attributes.Add("class", "active");
+                case "Projects":
+                    projects.Attributes.Add("class", "active");
                     break;
                 case "Services":
                     services.Attributes.Add("class", "active");
