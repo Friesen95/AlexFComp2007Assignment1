@@ -70,10 +70,13 @@
     <Content Include="Default.aspx" />
     <Content Include="packages.config" />
     <Content Include="Projects.aspx" />
+    <None Include="Scripts\jquery-2.2.3.intellisense.js" />
+    <Content Include="Scripts\jquery-2.2.3.js" />
+    <Content Include="Scripts\jquery-2.2.3.min.js" />
     <Content Include="Services.aspx" />
     <Content Include="Site.Master" />
-    <Content Include="Scripts\jquery-1.9.1.min.map" />
     <Content Include="user.Master" />
+    <Content Include="Scripts\jquery-2.2.3.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -104,11 +107,8 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
-    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\jquery-1.9.1.js" />
-    <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
