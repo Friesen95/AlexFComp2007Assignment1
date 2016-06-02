@@ -13,5 +13,10 @@ namespace Assignment1
         {
             this.Title = "Contact Me";
         }
+
+        protected void SendButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
