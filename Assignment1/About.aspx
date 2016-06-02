@@ -8,7 +8,7 @@
         </div>
         <div class="row">
             <div class=".col-xs-6 .col-sm-4">
-                <img src="images/Me.jpg" runat="server" />
+                <asp:Image ID="ImageMe" ImageUrl="images/Me.jpg" runat="server" />
             </div>
             <div class=".col-xs-12 .col-sm-6 .col-md-8">
                 <p>
