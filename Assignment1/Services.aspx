@@ -12,9 +12,9 @@
         </div>
         <div class="row">
             <div class="col-xs-6">
-                <img src="../images/html-css-js-300x175.png" /></div>
+                <img src="images/html-css-js-300x175.png" /></div>
             <div class="col-xs-6">
-                <img src="../images/Java_logo.png" /><img src="../images/2p4i.png" /></div>
+                <img src="images/Java_logo.png" /><img src="images/2p4i.png" /></div>
         </div>
     </div>
 </asp:Content>
